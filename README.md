@@ -2,7 +2,7 @@
 
 ## Overview
 
-We'll explain what Babel does and how to use it for React development. 
+We'll explain what Babel does and how to use it for *React* development. 
 
 ## Objectives
 1. Define and describe the benefits of using Babel plugins
